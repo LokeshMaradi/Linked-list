@@ -57,7 +57,7 @@ main()
  int d,n;
  while(1)
  {
- 	printf("Enter the choice:\n1.Push\n2.Dequeue\n3.Display\n4.Stop and exit\n");
+ 	printf("Enter the choice for performing Queue operations:\n1.Push\n2.Dequeue\n3.Display\n4.Stop and exit\n");
  	scanf("%d",&d);
  	switch(d)
  	{
